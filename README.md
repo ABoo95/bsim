@@ -1,4 +1,7 @@
-# [BSim](https://bsim-bristol.github.io)
+# [BSim](https://cellsimulationlabs.github.io/tools/bsim/)
+
+_Note: as of August 2017 BSim has officially moved to [here](https://github.com/CellSimulationLabs/bsim)_
+
 
 BSim is an agent-based modelling tool designed to allow for the study of bacterial populations. By enabling the description of bacterial behaviours, it attempts to provide an environment in which to investigate how local interactions between individual bacterium leads to the emergence of population level features, such as cooperation and synchronisation.
 
